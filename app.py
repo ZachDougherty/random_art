@@ -115,7 +115,7 @@ def randomize_shapes(n_circle, n_rect, min_size, num_shapes, curr_shape):
 	choices = np.random.permutation(COLORS)[:true_num]
 	# choices = np.random.choice(COLORS, num_shapes)
 	for c in choices:
-		origin = np.random.choice(np.linspace(-0.2,1,20), 2)
+		origin = np.random.choice(np.linspace(0,.8,20), 2)
 
 		min_ = min_size; max_ = min_size + 0.3
 		size = np.random.choice(np.linspace(min_,max_,20), 2)
