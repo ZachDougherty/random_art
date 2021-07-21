@@ -8,3 +8,6 @@ The buttons select either circles or rectangles and the sliders change the size 
 Feel free to change the COLORS list with any that you like! Below are some interesting plots that I created to see a sample of what you can make.
 
 ![art1](static/art1.png)
+![art2](static/art2.png)
+![art3](static/art3.png)
+![art4](static/art4.png)
